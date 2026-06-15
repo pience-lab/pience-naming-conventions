@@ -40,6 +40,7 @@ anyma-admin-web
 
 | Suffix      | 용도                        | 예시                       |
 | ----------- | --------------------------- | -------------------------- |
+| `-monorepo` | 여러 종류를 포함하는 모노레포       | `community-monorepo`       |
 | `-api`      | 백엔드 API 서버             | `payment-api`, `auth-api`  |
 | `-web`      | 웹 프론트엔드               | `admin-web`, `landing-web` |
 | `-socket`   | 웹 소켓                     | `chat-socket`              |
