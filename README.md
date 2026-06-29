@@ -32,7 +32,7 @@ anyma-admin-web
 
 리포지토리가 담당하는 비즈니스 기능이나 영역을 명시합니다.
 
-예: `admin`, `community`, `ecommerce`, `social`, `chat`
+예: `ai`, `admin`, `community`, `ecommerce`, `social`, `chat`
 
 ### 3 Type Suffix (코드의 종류)
 
@@ -56,3 +56,4 @@ anyma-admin-web
 | `-bot`      | 봇 / 자동화                 | `slack-bot`                |
 | `-action`   | GitHub Action               | `deploy-action`            |
 | `-template` | 프로젝트 템플릿             | `nestjs-template`          |
+| `-agent`    | AI Agent             | `ai-agent`          |
